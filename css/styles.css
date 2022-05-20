@@ -34,7 +34,7 @@ body {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 26px;
-    line-height: 1,19;
+    line-height: 1.19;
     letter-spacing: 0.03em;   
     text-decoration: none;
 }
@@ -46,7 +46,7 @@ body {
     color: var(--main-text-color);
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
  }
@@ -58,7 +58,7 @@ body {
     color: var(--secondary-text-color);
     font-weight: 500;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.02em;
     text-decoration: none;
 }
@@ -74,7 +74,7 @@ body {
     color: var(--main-color);
     font-weight: 900;
     font-size: 44px;
-    line-height: 1,36;
+    line-height: 1.36;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
@@ -85,7 +85,7 @@ body {
     cursor: pointer;
     font-weight: 700;
     font-size: 16px;
-    line-height: 1,87;
+    line-height: 1.87;
     display: flex;
     align-items: center;
     text-align: center;
@@ -101,21 +101,21 @@ body {
 .features-list-title {
     font-weight: 700;
     font-size: 14px;
-    line-height: 1,14;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
 } 
 .features-list-subtitle {
     color: var(--secondary-text-color);
     font-size: 14px;
-    line-height: 1,17;
+    line-height: 1.17;
     letter-spacing: 0.03em;
 }
 /*------------------------------occupation-------------------------------------*/
 .occupation-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,16;
+    line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -123,21 +123,21 @@ body {
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1,27;
+    line-height: 1.27;
     text-align: center;
     letter-spacing: 0.03em;
 }
 .team-list-title {
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
 }
 .team-list-subtitle {
     color: var(--secondary-text-color);
     font-size: 16px;
-    line-height: 1,18;
+    line-height: 1.18;
     text-align: center;
     letter-spacing: 0.03em;
 }
@@ -154,7 +154,7 @@ body {
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 26px;
-    line-height: 2,34;
+    line-height: 2.34;
     letter-spacing: 0.03em;
 }
 .footer-logo-accent {
@@ -164,7 +164,7 @@ body {
     color: var(--main-color);
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     text-decoration: none;
 
@@ -173,7 +173,7 @@ body {
     color: var(--links-color);
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     text-decoration: none;
 }
@@ -181,7 +181,7 @@ body {
     color: var(--links-color);
     font-style: normal;
     font-size: 14px;
-    line-height: 1,71;
+    line-height: 1.71;
     letter-spacing: 0.03em;
     text-decoration: none;
 }
@@ -193,7 +193,7 @@ body {
     cursor: pointer;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1,62;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;
     border-radius: 4px;
@@ -219,7 +219,7 @@ body {
     color: var(--secondary-text-color);
     text-decoration: none;
     font-size: 16px;
-    line-height: 1,87;
+    line-height: 1.87;
     letter-spacing: 0.03em;
     
 }
